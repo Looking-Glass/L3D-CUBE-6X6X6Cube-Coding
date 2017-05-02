@@ -12,4 +12,4 @@ Step 5. 	  Unzip L3D_CubePixel.zip and beta-cube-library.zip and put these two l
 
 Step 6.        Restart Arduino IDE, then select Maple (Rev3) for programming.
 
-**Enclosed a Demo for reference, enjoy it!
+**Enclosed two Demos x6CubeDemo.zip and x6CubeMusicPack.zip for reference, enjoy!
