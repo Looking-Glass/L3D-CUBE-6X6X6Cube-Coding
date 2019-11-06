@@ -10,3 +10,5 @@ Step 3.        Restart Arduino IDE, then select Maple (Rev3) for programming.
 **Enclosed two Demos x6CubeDemo.zip and x6CubeMusicPack.zip for reference, enjoy!
 
 The Schematic and PCB source files can be open with Eagle PCB.
+
+Enclosed some screenshot for Arauino IDE setting up for reference as well
